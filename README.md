@@ -34,3 +34,4 @@ applicatie er op dat moment uit zou moeten zien:
 3. [Actie 3](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap3/src/App.jsx)
 4. [Actie 4](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap4/src/App.jsx)
 5. [Eindresultaat App.jsx](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap5/src/App.jsx) en [Eindresultaat Product.jsx](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap5/src/Components/Product.jsx)
+# FE-fruit-perfection
